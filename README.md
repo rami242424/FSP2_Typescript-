@@ -245,3 +245,5 @@ npx eslint ./ch01/01.ts
 ## 수업 자료
 * [PPT](<https://github.com/uzoolove/FESP02-typescript/tree/main/PPT>) 폴더 확인
 
+#   F S P 2 _ T y p e s c r i p t -  
+ 
